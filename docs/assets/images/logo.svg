@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="212px" height="202px" viewBox="0 0 212 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Two Bucks</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#69D2E7" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M16,148.999999 L91,100 L189,149 L104.5,210"></path>
+        <path id="path-3" d="M54.1939013,146.310219 C60.2582512,143.475432 66.7159652,135.20048 72.1818951,125.277341 L54.1939013,111.27661"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Buck-Copy-3-+-Polygon-1-Copy-Copy-Copy" sketch:type="MSLayerGroup" transform="translate(1.000000, -16.000000)">
+            <polygon id="Polygon-1-Copy-2" fill-opacity="0.4" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" transform="translate(106.000000, 105.000000) rotate(-180.000000) translate(-106.000000, -105.000000) " points="106 4 202.056708 73.7892836 165.36631 186.710716 46.6336895 186.710716 9.94329185 73.7892836 "></polygon>
+            <path d="M5,142 L105,45 L206,142 L105,208" id="Path-117-Copy-2" fill="#A8DBA8" sketch:type="MSShapeGroup"></path>
+            <g id="Path-117-Copy">
+                <use fill="#92C092" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use fill="none" xlink:href="#path-2"></use>
+            </g>
+            <path d="M61,178 L118,137 L176,159 L105,212" id="Path-117" fill="#749974" sketch:type="MSShapeGroup"></path>
+            <polygon id="Polygon-1" stroke="#6D6875" stroke-width="10" sketch:type="MSShapeGroup" transform="translate(105.000000, 106.000000) rotate(-180.000000) translate(-105.000000, -106.000000) " points="105 1 204.860934 73.5532156 166.717451 190.946784 43.2825485 190.946784 5.13906579 73.5532156 "></polygon>
+            <g id="Buck-Copy-7" transform="translate(50.000000, 34.000000)">
+                <path d="M34.1176471,122.218978 L54.1176471,122.218978 L54.1176471,161 L32.3529412,141.609489 L34.1176471,122.218978 Z M74.1176471,122.218978 L54.1176471,122.218978 L54.1176471,161 L75.8823529,141.609489 L74.1176471,122.218978 Z" id="Rectangle-10" fill="#6D6875" sketch:type="MSShapeGroup"></path>
+                <g id="right-horn" transform="translate(62.352941, 0.000000)" stroke="#6D6875" stroke-width="10" sketch:type="MSShapeGroup" stroke-linecap="round">
+                    <path d="M0.417189247,80.5 L37.4760128,53.4708029 L37.4760128,21.1319248 L16.636137,0.314866373" id="Path-8" stroke-linejoin="bevel"></path>
+                    <path d="M24.1176471,60.5218978 L6.31441653,42.7381599" id="Path-9"></path>
+                    <path d="M11.1764706,22.0346715 L37.0588235,22.0346715" id="Path-10"></path>
+                </g>
+                <g id="right-horn-copy" transform="translate(30.000000, 40.250000) scale(-1, 1) translate(-30.000000, -40.250000) translate(11.176471, 0.000000)" stroke="#6D6875" stroke-width="10" sketch:type="MSShapeGroup" stroke-linecap="round">
+                    <path d="M0.417189247,80.5 L37.4760128,53.4708029 L37.4760128,21.1319248 L16.636137,0.314866373" id="Path-8" stroke-linejoin="bevel"></path>
+                    <path d="M24.1176471,60.5218978 L6.31441653,42.7381599" id="Path-9"></path>
+                    <path d="M11.1764706,22.0346715 L37.0588235,22.0346715" id="Path-10"></path>
+                </g>
+                <path d="M54.1939013,146.310219 C48.0663233,143.445876 41.5371358,135.027336 36.0352658,124.966426 L53.9088503,111.054745 L54.1939013,111.27661" id="Path" fill="#6D6875" sketch:type="MSShapeGroup"></path>
+                <g id="Path">
+                    <use fill="#6D6875" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <use fill="none" xlink:href="#path-3"></use>
+                </g>
+                <path id="Path-20" stroke="#979797" sketch:type="MSShapeGroup" d=""></path>
+                <path d="M54,64 C31.0340734,72.0108173 22.7945093,75.5722114 21,91 C20.3066552,104.058654 38.3828159,135.465758 54,141 C53.9939517,141.000906 53.9969758,140.999835 54,141 C53.996976,141.000906 53.9939518,140.999835 54,141 L54,64 L54,64 Z M54,64 C76.9659266,72.0108173 85.2054907,75.5722114 87,91 C87.6933448,104.058654 69.6171841,135.465758 54,141 C54.0060483,141.000906 54.0030242,140.999835 54,141 C54.003024,141.000906 54.0060482,140.999835 54,141 L54,64 L54,64 Z" id="Head-Copy" fill="#6D6875" sketch:type="MSShapeGroup"></path>
+                <g id="ears-copy" transform="translate(0.000000, 69.000000)" fill="#6D6875" sketch:type="MSShapeGroup">
+                    <path d="M81.1035273,17.5239561 C81.1035273,17.5239561 97.8887686,0.0266667106 98.6589643,3.28728535 C106.59475,45.6112794 82.9514808,27.9879193 81.1035271,29.5052353 C79.2555735,31.0225512 81.1035273,17.5239561 81.1035273,17.5239561 Z" id="right-ear" transform="translate(90.351841, 17.351841) rotate(-315.000000) translate(-90.351841, -17.351841) "></path>
+                    <path d="M9.10352726,17.5239561 C9.10352726,17.5239561 25.8887686,0.0266667106 26.6589643,3.28728535 C34.5947501,45.6112794 10.9514808,27.9879193 9.10352715,29.5052353 C7.2555735,31.0225512 9.10352726,17.5239561 9.10352726,17.5239561 Z" id="right-ear-copy-2" transform="translate(18.351841, 17.351841) scale(-1, 1) rotate(-315.000000) translate(-18.351841, -17.351841) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
